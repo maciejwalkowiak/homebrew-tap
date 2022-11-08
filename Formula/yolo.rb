@@ -3,7 +3,7 @@ class Yolo < Formula
   homepage "https://github.com/maciejwalkowiak/yolo"
   url "https://github.com/maciejwalkowiak/yolo/releases/download/v0.2.0/yolo-amd64-darwin.zip"
   version "0.2.0"
-  sha256 "6a16cc0984741098ad07f8bbe88c7055cd8d3ca7c8495a1bdd516cce876283e7"
+  sha256 "8f565ff40e6ac7a43b15ca6ab7d18425d9811fc48619b6ea4963ee85766d58b6"
   license "MIT"
 
 

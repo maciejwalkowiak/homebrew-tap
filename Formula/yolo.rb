@@ -1,9 +1,9 @@
 class Yolo < Formula
   desc "yolo"
   homepage "https://github.com/maciejwalkowiak/yolo"
-  url "https://github.com/maciejwalkowiak/yolo/releases/download/v0.2.0/yolo-amd64-darwin.zip"
-  version "0.2.0"
-  sha256 "8f565ff40e6ac7a43b15ca6ab7d18425d9811fc48619b6ea4963ee85766d58b6"
+  url "https://github.com/maciejwalkowiak/yolo/releases/download/v0.3.0/yolo-amd64-darwin.zip"
+  version "0.3.0"
+  sha256 "15af759377a1fca39923c9abe2475227abfceefd9d17876dd56b8ffc79fcb928"
   license "MIT"
 
 

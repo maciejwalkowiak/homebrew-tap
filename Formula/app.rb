@@ -1,4 +1,4 @@
-class App < Formula
+class Yolo < Formula
   desc "yolo"
   homepage "https://github.com/maciejwalkowiak/yolo"
   url "https://github.com/maciejwalkowiak/yolo/releases/download/v0.1.0/yolo-amd64-darwin.zip"
